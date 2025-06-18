@@ -1,5 +1,5 @@
-# 🖐️ Gesture Recognition using CNN | SkillCraft Internship Task 3
-This project is built as part of Task 3 of my internship at SkillCraft Technology. It involves building a Gesture Recognition System using Convolutional Neural Networks (CNN) with a real-time webcam interface powered by Flask.
+# 🖐️ Gesture Recognition using CNN | SkillCraft Internship Task 4
+This project is built as part of Task 4 of my internship at SkillCraft Technology. It involves building a Gesture Recognition System using Convolutional Neural Networks (CNN) with a real-time webcam interface powered by Flask.
 
 ## 📌 Features
 🧠 CNN-based gesture recognition model
