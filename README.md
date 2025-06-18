@@ -85,3 +85,8 @@ flask
 opencv-python
 tensorflow
 numpy
+
+## 👩‍💻 Author
+Sneha Mudda
+B.Tech CSE, IIIT RK Valley
+[LinkedIn](https://www.linkedin.com/in/sneha-mudda-b57819282/) | [GitHub](https://github.com/Sneha-805/)
